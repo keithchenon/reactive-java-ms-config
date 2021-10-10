@@ -8,4 +8,5 @@ spring:
         registration:
           oidc:
             client-id: 0oa26hctr8iPxkH3q5d7
-            client-secret: vsErJG5tIR0uIrrvBwnv4duStJhVNB1reE0fb5p3
+            client-secret: "{cipher}accdc006d1dcdc432249570c307323499658e49d969801ba36df02e79bf997bcde1d26c882d97e1e819ed4c72a9b10385ce2ad28d03c46b2b14aea83ce84bee7"
+
